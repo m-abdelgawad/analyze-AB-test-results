@@ -12,7 +12,7 @@ My goal was to help the company understand if they should implement this new pag
 
 ## Certification
 
-This project was a milestone in my journey to study the Advanced data analysis Nanodegree provided by Udacity.
+This project was a milestone in my journey to study the Advanced Data Analysis Nanodegree provided by Udacity.
 
 [![Advanced Data Analysis Nanodegree by Udacity](Udacity_Nanodegree_Graduation_Certificate.jpg)](https://confirm.udacity.com/5G4S74GJ "Advanced Data Analysis Nanodegree by Udacity")
 
